@@ -1,6 +1,6 @@
 # Learn Microservices with Spring Boot - Chapter 3
 
-This repository contains the source code of the practical use case described in the book [Learn Microservices with Spring Boot (2nd Edition)](https://thepracticaldeveloper.com/learn-microservices-v2/).
+This repository contains the source code of the practical use case described in the book [Learn Microservices with Spring Boot (2nd Edition)](https://tpd.io/book-extra).
 
 The book follows a pragmatic approach to building a Microservice Architecture. You start with a small monolith and examine the _pros_ and _cons_ that come with a move to microservices. 
 
@@ -43,4 +43,4 @@ Don't hesitate to create an issue in this repository and post your question/prob
 
 Are you interested in building a microservice architecture from scratch? You'll face all the challenges of designing and implementing a distributed system one by one, and will be able to evaluate if it's the best choice for your system.
 
-Visit [https://thepracticaldeveloper.com/learn-microservices-v2](https://thepracticaldeveloper.com/learn-microservices-v2/) for all the details about the book.
+Visit [https://thepracticaldeveloper.com/learn-microservices-v2](https://tpd.io/book-extra) for all the details about the book.
