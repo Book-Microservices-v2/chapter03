@@ -50,8 +50,8 @@ Visit [https://tpd.io/book-extra](https://tpd.io/book-extra) for all the details
 You can **buy the book online** from these stores:
 
 * [Apress](https://www.kqzyfj.com/click-8535631-14029332?url=https%3A%2F%2Fwww.apress.com%2Fgp%2Fbook%2F9781484261309)
-* Amazon (coming soon)
-* Other stores (coming soon)
+* [Amazon](https://amzn.to/3nADn4q)
+* and other online stores, check the IBAN (9781484261309) on [google](https://www.google.com/search?q=9781484261309)
 
 ### Source code by chapter (all repositories are available on Github)
 
