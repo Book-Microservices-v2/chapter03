@@ -64,3 +64,8 @@ You can **buy the book online** from these stores:
 * [Chapter 8 (II). Service Discovery and Load Balancing for Spring Boot Microservices (Consul / Spring Cloud Load Balancer)](https://github.com/Book-Microservices-v2/chapter08b)
 * [Chapter 8 (III). Centralized Configuration with Consul KV](https://github.com/Book-Microservices-v2/chapter08c)
 * [Chapter 8 (IV). Centralized Logs, Distributed Tracing, and Containerization with Docker (Buildpacks) and Docker Compose](https://github.com/Book-Microservices-v2/chapter08d)
+
+Extra chapters:
+
+* [E.1. End-to-End Microservice tests with Cucumber](https://github.com/Book-Microservices-v2/cucumber-tests)
+* [U.2.4.0. Upgrade: Spring Boot 2.4.0, Cloud 2020.0, Java 15](https://github.com/Book-Microservices-v2/update-2.4.0)
